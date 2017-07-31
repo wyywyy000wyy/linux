@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\1MyProgram\testLinux\linux\test.cpp">
+      <Filter>linux</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\1MyProgram\testLinux\linux\CMakeLists.txt">
+      <Filter>linux</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\COMMIT_EDITMSG">
+      <Filter>linux\.git</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\config">
+      <Filter>linux\.git</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\description">
+      <Filter>linux\.git</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\HEAD">
+      <Filter>linux\.git</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\applypatch-msg.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\commit-msg.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\post-update.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\pre-applypatch.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\pre-commit.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\pre-push.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\pre-rebase.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\prepare-commit-msg.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\hooks\update.sample">
+      <Filter>linux\.git\hooks</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\index">
+      <Filter>linux\.git</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\info\exclude">
+      <Filter>linux\.git\info</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\logs\HEAD">
+      <Filter>linux\.git\logs</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\logs\refs\heads\master">
+      <Filter>linux\.git\logs\refs\heads</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\logs\refs\remotes\origin\master">
+      <Filter>linux\.git\logs\refs\remotes\origin</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\objects\0f\8bbcd7467661831d134744362fb77c150c722b">
+      <Filter>linux\.git\objects\0f</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\objects\b2\26218c90991c4baff61fcd57ceee8faa86dedd">
+      <Filter>linux\.git\objects\b2</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\objects\ba\165aa66435deebeb80d188c19768780f9b5eaa">
+      <Filter>linux\.git\objects\ba</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391">
+      <Filter>linux\.git\objects\e6</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\refs\heads\master">
+      <Filter>linux\.git\refs\heads</Filter>
+    </None>
+    <None Include="D:\1MyProgram\testLinux\linux\.git\refs\remotes\origin\master">
+      <Filter>linux\.git\refs\remotes\origin</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="linux\.git">
+      <UniqueIdentifier>{5B20115E-C2B9-4DE2-941C-F13911E47BE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux">
+      <UniqueIdentifier>{EF44EEDD-F5F8-4EE5-B521-1F00C60C3B99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\hooks">
+      <UniqueIdentifier>{248FD2EF-F438-49C7-BFB4-02BEE99879D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\info">
+      <UniqueIdentifier>{2130218E-DC5E-4E50-9DD7-6A7CDAF32BEC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\logs">
+      <UniqueIdentifier>{2F92A281-7701-41DF-AD23-F3A9EA62B8F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\objects">
+      <UniqueIdentifier>{EBE2AC66-F286-49A2-AEEE-B33F0ABCC22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\refs">
+      <UniqueIdentifier>{441E125F-66C4-488D-8E7C-8C5D2080305B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\refs\heads">
+      <UniqueIdentifier>{B4306308-8E1D-483F-8927-BAB1E7F1419D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\refs\remotes">
+      <UniqueIdentifier>{AA28E531-6FDC-499E-986D-E7AECF1B39D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\logs\refs\heads">
+      <UniqueIdentifier>{3258E8B4-5212-452A-99F9-8B662D35E4E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\logs\refs\remotes">
+      <UniqueIdentifier>{076E2D8D-B6B0-471D-81B8-A18716DD3880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\objects\0f">
+      <UniqueIdentifier>{B0EB4301-D911-42C3-8838-F64A95CA271A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\objects\b2">
+      <UniqueIdentifier>{3FC9A80F-84CB-4A7E-8D25-D8AEEAF5EA97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\objects\ba">
+      <UniqueIdentifier>{F9711EC0-0E52-4BEA-A028-6AF4B4F944F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\objects\e6">
+      <UniqueIdentifier>{FBB5C0C9-6D9C-4453-BC6E-5A63BF19B62F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\logs\refs">
+      <UniqueIdentifier>{C13B5EE6-4193-4CC6-B5E1-CB0EFDAC5990}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\logs\refs\remotes\origin">
+      <UniqueIdentifier>{AE92487A-37A9-452E-B241-9652F9052642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="linux\.git\refs\remotes\origin">
+      <UniqueIdentifier>{CAD59906-46A2-49F2-9406-CED690EFE5AA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

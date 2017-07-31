@@ -1,0 +1,3 @@
+D:/1MyProgram/testLinux/linux/build/CMakeFiles/ALL_BUILD.dir
+D:/1MyProgram/testLinux/linux/build/CMakeFiles/linux.dir
+D:/1MyProgram/testLinux/linux/build/CMakeFiles/ZERO_CHECK.dir

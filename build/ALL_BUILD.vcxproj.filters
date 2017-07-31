@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\1MyProgram\testLinux\linux\CMakeLists.txt">
+      <Filter>linux</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="linux">
+      <UniqueIdentifier>{EF44EEDD-F5F8-4EE5-B521-1F00C60C3B99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

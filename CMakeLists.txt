@@ -22,7 +22,7 @@ ADD_DEFINITIONS(-D__GXX_EXPERIMENTAL_CXX0X__)
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR})
 
-add_library(${PROJECT_NAME} ${AllFile})
+add_executable(${PROJECT_NAME} ${AllFile})
 
 AllFilesLoad(${CMAKE_CURRENT_SOURCE_DIR} ${PROJECT_NAME})
 
